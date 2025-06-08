@@ -157,13 +157,6 @@ Le serveur **Flask** utilisé ici est un serveur de développement. Pour un envi
 
 ---
 
-## 👥 **Contributeurs**
-
-- **Votre Nom** : Créateur du projet 👨‍💻
-- **Collaborateurs** : Vous pouvez ajouter des collaborateurs ici 👯
-
----
-
 🌟 Merci d'utiliser **Weather Humor API** 🌟  
 Nous espérons que vous allez rigoler avec vos nouvelles blagues météo ! 😆
 
