@@ -164,12 +164,6 @@ Le serveur **Flask** utilisé ici est un serveur de développement. Pour un envi
 
 ---
 
-## 📜 **Licence**
-
-Ce projet est sous la licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
-
----
-
 🌟 Merci d'utiliser **Weather Humor API** 🌟  
 Nous espérons que vous allez rigoler avec vos nouvelles blagues météo ! 😆
 
