@@ -71,7 +71,7 @@ Weather-Humor-API/
 ### 1. Clonez le dépôt
 
 ```
-git clone https://github.com/ton-utilisateur/weather-humor-api.git
+git clone https://github.com/yureinox/Weather-Humor.git
 cd weather-humor-api
 ```
 
